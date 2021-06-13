@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<GameData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MyTransform>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>-1.34</Z>
+    <RotX>0</RotX>
+    <RotY>0</RotY>
+    <RotZ>0</RotZ>
+  </MyTransform>
+</GameData>
