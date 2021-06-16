@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MySaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MyTransform>
+    <isActive>false</isActive>
+    <X>3.42</X>
+    <Y>-0.35</Y>
+    <Z>0.66</Z>
+    <RotY>0</RotY>
+  </MyTransform>
+</MySaveData>

@@ -12,4 +12,6 @@ public class Users_SO : ScriptableObject
     public Vector3 vectorOfMachine;
 
     public float rotY;
+
 }
+
